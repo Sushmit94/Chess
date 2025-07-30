@@ -6,7 +6,6 @@ A simple, real-time online chess game built with Node.js, Express, Socket.io, an
 
 * **Real-time Gameplay:** Play chess against another player in real-time.
 * **Two-Player Support:** Automatically assigns players as White or Black.
-* **Spectator Mode:** Additional connections beyond two players are assigned as spectators.
 * **Move Validation:** Uses `chess.js` to validate moves according to chess rules.
 * **Dynamic Board Updates:** The chess board updates for all connected clients as moves are made.
 
