@@ -15,7 +15,7 @@ A simple, real-time online chess game built with Node.js, Express, Socket.io, an
 * **Express.js:** Web framework for Node.js.
 * **Socket.io:** Library for real-time, bidirectional, event-based communication.
 * **Chess.js:** JavaScript chess library for move validation, game state, etc.
-* **EJS:** Embedded JavaScript templates for rendering dynamic views.
+
 
 ## Getting Started
 
