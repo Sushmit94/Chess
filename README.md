@@ -33,8 +33,7 @@ Make sure you have Node.js installed on your system.
 2.  **Install dependencies:**
     ```bash
     npm install
-    ```
-
+    
 ### Running the Application
 
 1.  **Start the server:**
