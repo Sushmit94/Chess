@@ -20,7 +20,7 @@ A simple, real-time online chess game built with Node.js, Express, Socket.io, an
 
 ### Prerequisites
 
-Make sure you have Node.js installed on your system.
+
 
 ### Installation
 
